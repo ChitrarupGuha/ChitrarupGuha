@@ -1,16 +1,83 @@
-## Hi there 👋
+# Hi, I'm Chitrarup 👋
 
-<!--
-**ChitrarupGuha/ChitrarupGuha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧬 BCA × DMLT Student
 
-Here are some ideas to get you started:
+Building AI-powered healthcare software where laboratory science meets software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧬 About Me
+
+- 🎓 BCA + DMLT Student
+- 🤖 Interested in AI, Computer Vision and Medical Imaging
+- 💻 Full Stack Developer
+- 🔬 Passionate about Healthcare Technology
+- 🚀 Currently building intelligent healthcare tools
+
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-red)
+![Flask](https://img.shields.io/badge/Flask-black)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Three.js](https://img.shields.io/badge/Three.js-black)
+![Git](https://img.shields.io/badge/Git-orange)
+
+
+Languages
+Python • JavaScript • C • Java
+
+AI
+PyTorch • TensorFlow
+
+Backend
+Flask • Node.js
+
+Frontend
+HTML • CSS • Three.js
+
+Database
+MySQL • SQLite
+
+Tools
+Git • Docker • Postman
+
+
+## 🚀 Featured Projects
+
+🧬 NucleiMapper
+
+AI-powered white blood cell morphology classifier.
+
+---
+
+🩸 HemaScale-AI
+
+Spatial clustering engine for hematology analysis.
+
+---
+
+🎨 Pixel Studio
+
+Image compression and pixel art generation.
+
+---
+
+🤟 Gesturizer
+
+Real-time hand gesture recognition.
+
+
+![GitHub Stats](...)
+
+![Top Languages](...)
+
+![Streak](...)
+
+
+
+## 🌱 Currently Working On
+
+- 🧬 NucleiMapper v2
+- 🤖 Deep Learning
+- 🔬 Blood Smear Analysis
+- 🌐 Portfolio Redesign
