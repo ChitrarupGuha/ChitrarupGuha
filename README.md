@@ -1,9 +1,18 @@
-# Hi, I'm Chitrarup 👋
+# Hello visitor, I'm Chitrarup Guha.
 
-🧬 Building AI-powered healthcare software at the intersection of Medical Laboratory Science and Software Engineering.
+> 🧬💻 Building AI-powered healthcare software where Medical Laboratory Science meets Software Engineering.
 
-I develop computer vision systems, intelligent healthcare applications, and machine learning tools that transform laboratory workflows into interactive software.
+I develop intelligent healthcare software that bridges laboratory science and software engineering.
+
 From browser-based medical interfaces to deep learning models for blood smear analysis, I enjoy creating software that connects modern engineering with real clinical workflows.
+
+Combining software engineering with medical laboratory science isn't a common path, but it gives me a unique perspective on building practical healthcare technology.
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ChitrarupGuha&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ChitrarupGuha&theme=darcula&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ChitrarupGuha&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🎓 About Me
 
@@ -12,6 +21,7 @@ From browser-based medical interfaces to deep learning models for blood smear an
 - 🤖 Exploring AI, Computer Vision & Medical Imaging
 - 💻 Full Stack Developer
 - 🚀 Open Source Enthusiast
+
 
 ## 💻 Tech Stack
 
@@ -39,15 +49,16 @@ From browser-based medical interfaces to deep learning models for blood smear an
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🗄️ Database
-📖 Currently Learning
-MySQL • SQLite
-
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🗄️ Database
+📖 Currently Learning
+MySQL • SQLite
+
 
 #💻 Languages
 Python • JavaScript • C • Java
@@ -76,46 +87,63 @@ Git • Docker • Postman
 - Multi-Agent AI Systems
 - MLOps & Model Deployment
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChitrarupGuha&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=ChitrarupGuha...)
 
 
+#🧬 Lab Archives
 
-## 🚀 Featured Projects
+## 🧬 NucleiMapper
 
-🧬 NucleiMapper
+> AI-powered White Blood Cell Morphology Classifier
 
-AI-powered white blood cell morphology classifier.
+### ⚙️ Tech Stack
+- 🧠 PyTorch
+- 🌐 FastAPI
+- 🎨 Three.js
+- 🩸 RV-PBS Dataset
 
----
-
-🩸 HemaScale-AI
-
-Spatial clustering engine for hematology analysis.
-
----
-
-🎨 Pixel Studio
-
-Image compression and pixel art generation.
+### 🔗 Links
+- ► Repository
+- ► Live Demo
+- ► Documentation
 
 ---
 
-🤟 Gesturizer
+## 🩸 HemaScale-AI
 
-Real-time hand gesture recognition.
+> Spatial clustering engine for hematology analysis.
 
+### ⚙️ Technologies
+- 🧠 Machine Learning
+- 📊 Data Visualization
+- 🩺 Healthcare Analytics
 
-![GitHub Stats](...)
+### 🔗 Links
+- ► Repository
 
-![Top Languages](...)
+---
 
-![Streak](...)
+## 🎨 Pixel Studio
 
+> Image compression & pixel art generation.
 
+### ⚙️ Technologies
+- ⚡ JavaScript
+- 🖼 Canvas API
+- 🎮 Graphics
 
-## 🌱 Currently Working On
+### 🔗 Links
+- ► Repository
 
-- 🧬 NucleiMapper v2
-- 🤖 Deep Learning
-- 🔬 Blood Smear Analysis
-- 🌐 Portfolio Redesign
+---
+
+## 🤟 Gesturizer
+
+> Real-time hand gesture recognition.
+
+### ⚙️ Technologies
+- 📷 MediaPipe
+- 🧠 TensorFlow
+- 🌐 Web Speech API
+
+### 🔗 Links
+- ► Repository
