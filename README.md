@@ -1,27 +1,48 @@
 # Hi, I'm Chitrarup 👋
 
-🧬 BCA × DMLT Student
+🧬 Building AI-powered healthcare software at the intersection of Medical Laboratory Science and Software Engineering.
 
-Building AI-powered healthcare software where laboratory science meets software engineering.
+I develop computer vision systems, intelligent healthcare applications, and machine learning tools that transform laboratory workflows into interactive software.
+From browser-based medical interfaces to deep learning models for blood smear analysis, I enjoy creating software that connects modern engineering with real clinical workflows.
 
-## 🧬 About Me
+## 🎓 About Me
 
-- 🎓 BCA + DMLT Student
-- 🤖 Interested in AI, Computer Vision and Medical Imaging
+- 🎓 BCA Student (Software Engineering)
+- 🧪 Diploma in Medical Laboratory Technology (DMLT)
+- 🤖 Exploring AI, Computer Vision & Medical Imaging
 - 💻 Full Stack Developer
-- 🔬 Passionate about Healthcare Technology
-- 🚀 Currently building intelligent healthcare tools
-
+- 🚀 Open Source Enthusiast
 
 ## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-red)
-![Flask](https://img.shields.io/badge/Flask-black)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Three.js](https://img.shields.io/badge/Three.js-black)
-![Git](https://img.shields.io/badge/Git-orange)
+### Languages
+![Python]
+![JavaScript]
+![C]
+![Java]
 
+### AI & Machine Learning
+![PyTorch]
+![TensorFlow]
+
+### Backend
+![Flask]
+![Node.js]
+
+### Frontend
+![HTML5]
+![CSS3]
+![JavaScript]
+![Three.js]
+
+### Databases
+![MySQL]
+![SQLite]
+
+### Tools
+![Git]
+![Docker]
+![Postman]
 
 Languages
 Python • JavaScript • C • Java
@@ -41,6 +62,12 @@ MySQL • SQLite
 Tools
 Git • Docker • Postman
 
+## 🌱 Currently Exploring
+
+- Deep Learning Architectures
+- Medical Image Analysis
+- Multi-Agent AI Systems
+- MLOps & Model Deployment
 
 ## 🚀 Featured Projects
 
