@@ -49,24 +49,24 @@ MySQL • SQLite
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-💻 Languages
+#💻 Languages
 Python • JavaScript • C • Java
 
-🧠 AI & Machine Learning
+#🧠 AI & Machine Learning
 PyTorch • TensorFlow
 
-⚙️ Backend
+#⚙️ Backend
 - Learning -
 Flask • Node.js
 
-🎨 Frontend
+#🎨 Frontend
 HTML • CSS • Three.js
 
-🗄️ Database
+#🗄️ Database
 - 🚧 In Progress -
 MySQL • SQLite
 
-🛠️ Developer Tools
+#🛠️ Developer Tools
 Git • Docker • Postman
 
 ## 🌱 Currently Exploring
@@ -75,6 +75,10 @@ Git • Docker • Postman
 - Medical Image Analysis
 - Multi-Agent AI Systems
 - MLOps & Model Deployment
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChitrarupGuha&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=ChitrarupGuha...)
+
+
 
 ## 🚀 Featured Projects
 
